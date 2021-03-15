@@ -116,6 +116,27 @@
     alert( user[key])
 }
 
+let codes = {
+    "49": "GER",
+    "43": "GBR",
+    "41": "SWe",
+    "1": "USA",    
+};
 
+for (let code in codes) {
+    alert(code);
+}
+
+
+let codes = {
+    "+49": "GER",
+    "+43": "GBR",
+    "+41": "SWe",
+    "+1": "USA",    
+};
+
+for (let code in codes) {
+    alert(code);
+}
 
 
