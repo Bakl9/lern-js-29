@@ -89,3 +89,33 @@
 
 // alert (user.noSuchProperty === undefined)
 
+
+// let user = { name: "John", age: 30,};
+
+// alert("age" in user);
+// alert("blabla" in user);
+
+
+// let user = {
+//     age:undefined,
+// }
+
+// alert ("age" in user);
+
+
+// const user = {
+//     age: 30,
+//     name:'Makarov',
+//     hobby:"bike",
+//     love: true
+// };
+
+// for (let key in user) {
+    alert( key)
+
+    alert( user[key])
+}
+
+
+
+
