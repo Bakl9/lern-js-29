@@ -139,4 +139,15 @@ for (let code in codes) {
     alert(code);
 }
 
+let user = {
+//     name: 'John',
+//     surName: "Smith",
+// };
+
+// user.age = +25 
+
+// for (let prop in user) {
+//     alert (prop);
+// }
+
 
